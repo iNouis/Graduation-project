@@ -21,4 +21,4 @@ Atheer Almataani --- in Linkdin:
 shaimaa Alshareef --- in Linkdin:
 Reyam Felemban --- in Linkdin:
 Ebtisam Alhilali --- in Linkdin:
-Nora Alharithi --- in Linkdin:
+Noura Alharthi --- in Linkdin:
