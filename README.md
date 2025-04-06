@@ -1,6 +1,6 @@
-# Graduation-project
 
-# First: Baraa | بَارِع website:
+
+# First: Baraa | بَارِع website (Graduation-project):
 Welcome! This repository serves as a comprehensive documentation and codebase for the Baraa | بَارِع project. It includes:
 * The frontend and backend code of the Baraa website.
 * All related documents and files created during the development process.
