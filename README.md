@@ -13,7 +13,7 @@ in addition to a set of instructions in textual and photographic formats to help
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/localhost_5173_Home_Login(Nest%20Hub%20Max).png?raw=true)
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/screencapture-localhost-5173-Home-2025-01-30-17_52_34.png?raw=true)
-![image alt]()
+![image alt](https://github.com/iNouis/Graduation-project/blob/main/localhost_5173_Home_Generate_idea(Nest%20Hub%20Max)%20(1).png?raw=true)
 ![image alt]()
 
 
