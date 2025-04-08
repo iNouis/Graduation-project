@@ -11,7 +11,7 @@ in addition to a set of instructions in textual and photographic formats to help
 
 # Third: Screenshots
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
-![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
+![image alt]([https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true](https://github.com/iNouis/Graduation-project/blob/main/localhost_5173_Home_Login(Nest%20Hub%20Max).png?raw=true))
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
