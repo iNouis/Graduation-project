@@ -10,6 +10,7 @@ Baraa | بَارِع is a website that utilizes AI capabilities for the users to
 in addition to a set of instructions in textual and photographic formats to help users apply these projects successfully.
 
 # Third: Screenshots
+![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
 
 # fourth: Team Members: 
 Written and maintained by the Baraa | بَارِع team:
