@@ -1,10 +1,7 @@
 
 
 # First: Baraa | بَارِع website (Graduation-project):
-Welcome! This repository serves as a comprehensive documentation and codebase for the Baraa | بَارِع project. It includes:
-* The frontend and backend code of the Baraa website.
-* All related documents and files created during the development process.
-
+Welcome! This repository serves as a comprehensive documentation and codebase for the Baraa | بَارِع project.
 # Second: About the Project:
 Baraa | بَارِع is a website that utilizes AI capabilities for the users to create an upcycling projects inspired by Saudi Arabia heritage based on what they have of materials, 
 in addition to a set of instructions in textual and photographic formats to help users apply these projects successfully.
