@@ -5,6 +5,9 @@ Welcome! This repository serves as a comprehensive documentation and codebase fo
 # Second: About the Project:
 Baraa | بَارِع is a website that utilizes AI capabilities for the users to create an upcycling projects inspired by Saudi Arabia heritage based on what they have of materials, 
 in addition to a set of instructions in textual and photographic formats to help users apply these projects successfully.
+## 🔗 Figma Design
+You can view the full design on Figma [here](https://www.figma.com/design/xuYeXekG5yRxxgMU9e4gUl/Baraa-Website?node-id=0-1&t=kxwxtaUy7Zc4TZL9-1).
+
 
 # Third: Screenshots
 ![image alt](https://github.com/iNouis/Graduation-project/blob/main/logo%20brown%20w%20green.png?raw=true)
